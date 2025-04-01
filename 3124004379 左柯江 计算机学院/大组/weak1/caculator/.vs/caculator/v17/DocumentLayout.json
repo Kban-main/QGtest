@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|solutionrelative:caculator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|solutionrelative:caculator\\calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|solutionrelative:caculator\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|solutionrelative:caculator\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AE0D87-CCD2-4868-A0F6-3E9122B62707}|caculator\\caculator.vcxproj|solutionrelative:caculator\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.h",
+              "RelativeDocumentMoniker": "caculator\\Stack.h",
+              "ToolTip": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.h",
+              "RelativeToolTip": "caculator\\Stack.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-28T01:42:54.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.c",
+              "DocumentMoniker": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.c",
+              "RelativeDocumentMoniker": "caculator\\Stack.c",
+              "ToolTip": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\Stack.c",
+              "RelativeToolTip": "caculator\\Stack.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-28T01:42:39.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\main.c",
+              "RelativeDocumentMoniker": "caculator\\main.c",
+              "ToolTip": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\main.c",
+              "RelativeToolTip": "caculator\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-28T03:18:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calculator.h",
+              "DocumentMoniker": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.h",
+              "RelativeDocumentMoniker": "caculator\\calculator.h",
+              "ToolTip": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.h",
+              "RelativeToolTip": "caculator\\calculator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-28T02:08:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.c",
+              "DocumentMoniker": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.c",
+              "RelativeDocumentMoniker": "caculator\\calculator.c",
+              "ToolTip": "D:\\QG\u4F5C\u4E1A\\\u5927\u7EC4\u4F5C\u4E1A\\\u7B2C\u4E00\u5468\\caculator\\caculator\\calculator.c",
+              "RelativeToolTip": "caculator\\calculator.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-28T02:09:18.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
